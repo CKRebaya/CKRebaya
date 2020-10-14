@@ -23,5 +23,4 @@ ________________________________
 > :earth_asia: Nature <br>
 > :camera: Nature Photography <br>
 > :pencil: Poetry <br>
-> :computer: Technology
 
