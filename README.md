@@ -5,14 +5,14 @@
 
 <img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/me.JPG" alt="ME" width="200px" align="left">
 
-### ABOUT ME
+> ### ABOUT ME
 ________________________________
-    NAME: CLARENCE KEITH SOLITANA REBAYA
-    AGE: 21 YEARS OLD
-    ADDRESS: SANTA BARBARA, ILOILO
-    COURSE: BS INFORMATION TECHNOLOGY
-    YEAR LEVEL & SECTION: 3RD YEAR - A
-    SCHOOL: WEST VISAYAS STATE UNIVERSITY
+   >> NAME: CLARENCE KEITH SOLITANA REBAYA
+   >> AGE: 21 YEARS OLD
+   >> ADDRESS: SANTA BARBARA, ILOILO
+   >> COURSE: BS INFORMATION TECHNOLOGY
+   >> YEAR LEVEL & SECTION: 3RD YEAR - A
+   >> SCHOOL: WEST VISAYAS STATE UNIVERSITY
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port3.jpg" alt="ME" width="200px" align="left">
