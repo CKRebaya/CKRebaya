@@ -3,7 +3,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/me.JPG" alt="ME" width="175px" align="left">
+<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/me.JPG" alt="ME" width="200px" align="left">
 
 ### ABOUT ME
 ________________________________
@@ -14,7 +14,8 @@ ________________________________
     YEAR LEVEL & SECTION: 3RD YEAR - A
     SCHOOL: WEST VISAYAS STATE UNIVERSITY
 <br>
-<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port3.jpg" alt="ME" width="175px" align="left">
+<br>
+<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port3.jpg" alt="ME" width="200px" align="left">
 
 ### INTERESTS
 ________________________________
@@ -23,8 +24,15 @@ ________________________________
 > :earth_asia: Nature <br>
 > :camera: Nature Photography <br>
 > :pencil: Poetry <br>
+> :computer: Technology
 <br>
-<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/01e7d7420aa6bb8b084ab16ea4017519.jpg" alt="ME" width="175px" align="left">
+<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/01e7d7420aa6bb8b084ab16ea4017519.jpg" alt="ME" width="200px" align="left">
 
 ### HOBBIES
 ________________________________
+ :sparkles: Watching anime <br>
+ :sparkles: Reading manga <br>
+ :sparkles: Cycling <br>
+ :sparkles: Doing chores <br>
+ :sparkles: Watching movie series <br>
+ :sparkles: Listening to music
