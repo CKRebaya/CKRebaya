@@ -2,8 +2,15 @@
 >Welcome to my profile!
 
 
-<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/me.JPG" alt="ME" width="175px" align="left"> </a>   
+<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/me.JPG" alt="ME" width="175px" align="left">
 
- > NAME: **CLARENCE KEITH S. REBAYA** <br>
- > AGE: **21 YEARS OLD**
+<br>
+<br>
+
+    NAME: CLARENCE KEITH SOLITANA REBAYA
+    AGE: 21 YEARS OLD
+    ADDRESS: SANTA BARBARA, ILOILO
+    COURSE: BS INFORMATION TECHNOLOGY
+    YEAR LEVEL & SECTION: 3RD YEAR - A
+    SCHOOL: WEST VISAYAS STATE UNIVERSITY
 
