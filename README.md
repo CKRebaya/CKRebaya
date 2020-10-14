@@ -2,7 +2,8 @@
 >Welcome to my profile!
 
 
-| <a href="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/me.JPG">
-  <img src="/assets/images/me.JPG" alt="ME" width="175px"> </a>    | NAME: CLARENCE KEITH S. REBAYA |
+<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/me.JPG" alt="ME" width="175px" align="left"> </a>   
 
+ > NAME: **CLARENCE KEITH S. REBAYA** <br>
+ > AGE: **21 YEARS OLD**
 
