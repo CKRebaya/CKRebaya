@@ -1,9 +1,10 @@
 ## Hi, hi, hiiii ~ :raised_hands:
 > **Welcome to my profile!**
 >> *"It doesn't cost much to be kind; just know when to stop."*
+>>> ***Selenophile :crescent_moon: | Philocalist :cherry_blossom: | Pluviophile :umbrella:***
 
 <br>
-<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/me.JPG" alt="ME" width="200px" align="left">
+<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/me.JPG" alt="Sea-U-T-E" width="200px" align="left">
 
 ### ABOUT ME
 ________________________________
@@ -15,7 +16,7 @@ ________________________________
     School: WEST VISAYAS STATE UNIVERSITY
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port3.jpg" alt="ME" width="200px" align="left">
+<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port3.jpg" alt="Interests" width="200px" align="left">
 
 ### INTERESTS
 ________________________________
@@ -26,7 +27,7 @@ ________________________________
 > :pencil: Poetry <br>
 > :computer: Technology
 <br>
-<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/01e7d7420aa6bb8b084ab16ea4017519.jpg" alt="ME" width="200px" align="left">
+<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/01e7d7420aa6bb8b084ab16ea4017519.jpg" alt="Hobbies" width="200px" align="left">
 
 ### HOBBIES
 ________________________________
@@ -35,4 +36,14 @@ ________________________________
  :sparkles: Cycling <br>
  :sparkles: Doing chores <br>
  :sparkles: Watching movie series <br>
- :sparkles: Listening to music
+ :sparkles: Listening to music <br> <br>
+
+
+### GALLERY
+________________________________
+
+> *I am not qualified to be called a photographer but I just love to take photos of beautiful things. **Nature is beautiful***. :sunflower::blue_heart: <br>
+
+| | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="200" alt="Image 1" src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port1.jpg">|<img width="200" alt="Image 2" src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port2.jpg">|<img width="200" alt="Image 3" src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port3.jpg">| <img width="200" alt="Image 4" src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port6.jpg">| 
