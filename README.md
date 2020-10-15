@@ -16,7 +16,6 @@ ________________________________
     School: WEST VISAYAS STATE UNIVERSITY
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port3.jpg" alt="Interests" width="200px" align="left">
 
 ### INTERESTS
 ________________________________
@@ -28,7 +27,6 @@ ________________________________
 > :computer: Technology
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/01e7d7420aa6bb8b084ab16ea4017519.jpg" alt="Hobbies" width="200px" align="left">
 
 ### HOBBIES
 ________________________________
