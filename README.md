@@ -27,20 +27,21 @@ ________________________________
 > :pencil: Poetry <br>
 > :computer: Technology
 <br>
+<br>
 <img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/01e7d7420aa6bb8b084ab16ea4017519.jpg" alt="Hobbies" width="200px" align="left">
 
 ### HOBBIES
 ________________________________
-> * Watching anime <br>
-> * Reading manga <br>
-> * Cycling <br>
-> * Doing chores <br>
-> * Watching movie series <br>
-> * Listening to music <br> <br>
+> :sparkling_heart: Watching anime <br>
+> :sparkling_heart: Reading manga <br>
+> :sparkling_heart: Cycling <br>
+> :sparkling_heart: Doing chores <br>
+> :sparkling_heart: Watching movie series <br>
+> :sparkling_heart: Listening to music <br> <br>
 
 ### GALLERY
 ________________________________
-> *I am not qualified to be called a photographer but I just love to take photos of beautiful things. **Nature is beautiful***. :sunflower::blue_heart: <br>
+> *I am not qualified to be called a photographer but I love to take photos of beautiful things. **Nature is beautiful***. :sunflower::blue_heart: <br>
 
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
