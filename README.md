@@ -14,9 +14,9 @@ ________________________________
     Course: BS INFORMATION TECHNOLOGY
     Year Level/Section: 3RD YEAR - A
     School: WEST VISAYAS STATE UNIVERSITY
+<br>
 
 ### INTERESTS
-________________________________
 > :stars: Astronomy <br>
 > :seedling: Biology <br>
 > :earth_asia: Nature <br>
@@ -25,7 +25,6 @@ ________________________________
 > :computer: Technology
 
 ### HOBBIES
-________________________________
 > :sparkling_heart: Watching anime <br>
 > :sparkling_heart: Reading manga <br>
 > :sparkling_heart: Cycling <br>
@@ -34,7 +33,6 @@ ________________________________
 > :sparkling_heart: Listening to music <br>
 
 ### GALLERY
-________________________________
 > *I am not qualified to be called a photographer but I love to take photos of beautiful things. **Nature is beautiful***. :sunflower::blue_heart: <br>
 
 | | | | |
