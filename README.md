@@ -50,7 +50,7 @@ ________________________________
 > ### FOLLOW ME!
 >
 > - <img src="assets/images/facebook.png" width="28px" align="left"> [Clarence Keith S. Rebaya](https://www.facebook.com/clarencekeith.rebaya.9/) 
-
+>
 > - <img src="assets/images/instagram.png" width="30px" align="left"> [@clarencerebaya](https://www.instagram.com/clarencerebaya/) 
-
+>
 > - <img src="assets/images/twitter.png" width="30px" align="left"> [@KeithRebaya](https://twitter.com/KeithRebaya)
