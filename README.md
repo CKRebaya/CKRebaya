@@ -31,12 +31,12 @@ ________________________________
 
 ### HOBBIES
 ________________________________
-> * Watching anime
-> * Reading manga
-> * Cycling 
-> * Doing chores
-> * Watching movie series
-> * Listening to music <br>
+> * Watching anime <br>
+> * Reading manga <br>
+> * Cycling <br>
+> * Doing chores <br>
+> * Watching movie series <br>
+> * Listening to music <br> <br>
 
 ### GALLERY
 ________________________________
