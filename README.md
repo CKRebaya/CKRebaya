@@ -37,7 +37,8 @@ ________________________________
 > :sparkling_heart: Cycling <br>
 > :sparkling_heart: Doing chores <br>
 > :sparkling_heart: Watching movie series <br>
-> :sparkling_heart: Listening to music <br> <br>
+> :sparkling_heart: Listening to music <br>
+<br>
 
 ### GALLERY
 ________________________________
