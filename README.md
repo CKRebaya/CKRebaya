@@ -14,8 +14,6 @@ ________________________________
     Course: BS INFORMATION TECHNOLOGY
     Year Level/Section: 3RD YEAR - A
     School: WEST VISAYAS STATE UNIVERSITY
-<br>
-<br>
 
 ### INTERESTS
 ________________________________
@@ -25,8 +23,6 @@ ________________________________
 > :camera: Nature Photography <br>
 > :pencil: Poetry <br>
 > :computer: Technology
-<br>
-<br>
 
 ### HOBBIES
 ________________________________
@@ -36,7 +32,6 @@ ________________________________
 > :sparkling_heart: Doing chores <br>
 > :sparkling_heart: Watching movie series <br>
 > :sparkling_heart: Listening to music <br>
-<br>
 
 ### GALLERY
 ________________________________
