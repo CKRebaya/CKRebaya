@@ -2,7 +2,6 @@
 > **Welcome to my profile!**
 >> *"It doesn't cost much to be kind; just know when to stop."*
 >>> ***Selenophile :crescent_moon: | Philocalist :cherry_blossom: | Pluviophile :umbrella:***
-
 <br>
 <img src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/me.JPG" alt="Sea-U-T-E" width="200px" align="left">
 
@@ -38,10 +37,8 @@ ________________________________
  :sparkles: Watching movie series <br>
  :sparkles: Listening to music <br> <br>
 
-
 ### GALLERY
 ________________________________
-
 > *I am not qualified to be called a photographer but I just love to take photos of beautiful things. **Nature is beautiful***. :sunflower::blue_heart: <br>
 
 | | | | |
