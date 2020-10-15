@@ -1,5 +1,6 @@
 ## Hi, hi, hiiii ~ :raised_hands:
 > **Welcome to my profile!**
+>
 >> *"It doesn't cost much to be kind; just know when to stop."*
 >>> ***Selenophile :crescent_moon: | Philocalist :cherry_blossom: | Pluviophile :umbrella:***
 <br>
@@ -30,12 +31,12 @@ ________________________________
 
 ### HOBBIES
 ________________________________
- :sparkles: Watching anime <br>
- :sparkles: Reading manga <br>
- :sparkles: Cycling <br>
- :sparkles: Doing chores <br>
- :sparkles: Watching movie series <br>
- :sparkles: Listening to music <br> <br>
+ * Watching anime <br>
+ * Reading manga <br>
+ * Cycling <br>
+ * Doing chores <br>
+ * Watching movie series <br>
+ * Listening to music <br> <br>
 
 ### GALLERY
 ________________________________
@@ -44,3 +45,11 @@ ________________________________
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="200" alt="Image 1" src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port1.jpg">|<img width="200" alt="Image 2" src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port2.jpg">|<img width="200" alt="Image 3" src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port3.jpg">| <img width="200" alt="Image 4" src="https://raw.githubusercontent.com/CKRebaya/cksrebaya/main/assets/images/port6.jpg">| 
+
+### FOLLOW ME
+________________________________
+<img src="assets/images/facebook.png" width="30px" align="left"> [Clarence Keith S. Rebaya](https://www.facebook.com/clarencekeith.rebaya.9/) 
+
+<img src="assets/images/instagram.png" width="30px" align="left"> [@clarencerebaya](https://www.instagram.com/clarencerebaya/)
+
+<img src="assets/images/twitter.png" width="30px" align="left"> [@KeithRebaya](https://twitter.com/KeithRebaya)
