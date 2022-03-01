@@ -33,7 +33,7 @@ ________________________________
 > * Listening to music <br>
 
 ### GALLERY
-> *I am not qualified to be called a photographer but I love to take photos of beautiful things. **Nature is beautiful***. :sunflower::blue_heart: <br>
+> *I love to take photos of beautiful things. **Nature is beautiful***. :sunflower::blue_heart: <br>
 
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
